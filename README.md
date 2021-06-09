@@ -5,6 +5,8 @@ The purpose of this project was to help W. Avy run an analysis on a dataset to p
 
 ## Results
 Below are the two temperature summaries for the months of June and December:
+
+
 ![alt text](https://github.com/allison-chavez/surfs_up/blob/main/Monthly%20Weather%20Images/June_Temperatures.png)
 ![alt text](https://github.com/allison-chavez/surfs_up/blob/main/Monthly%20Weather%20Images/December_Temperatures.png)
 
